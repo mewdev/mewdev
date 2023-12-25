@@ -1,4 +1,4 @@
-### 👋 Welcome in my code lair. My name is [Your Name]
+### 👋 Welcome in my code lair. My name is Michał.
 
 Passionate Junior Front-End Developer 🚀 with a knack for turning ideas into engaging user experiences. I love crafting beautiful and functional websites that leave a lasting impression.
 
