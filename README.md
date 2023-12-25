@@ -12,7 +12,7 @@ I love crafting beautiful and functional websites that leave a lasting impressio
 - Figma
 - RESTful APIs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewdev&layout=compact)
 
 ### 🌱 Currently Learning:
 Exploring the fascinating world of front-end development through small projects as well as learning from Scrimba platform 🚀. Eager to absorb knowledge and always up for a challenge.
