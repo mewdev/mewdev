@@ -8,6 +8,7 @@ I love crafting beautiful and functional websites that leave a lasting impressio
 - React.js
 - Responsive Web Design
 - Git & GitHub
+- Wordpress
 - Figma
 - RESTful APIs
 
