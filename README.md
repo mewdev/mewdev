@@ -8,7 +8,7 @@ Passionate Junior Front-End Developer with an artistic background 🚀. I strive
 - Responsive Web Design
 - Git & GitHub
 - Wordpress
-- Figma
+- Figma, Webflow
 - RESTful APIs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewdev&layout=compact)
