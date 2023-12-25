@@ -1,7 +1,6 @@
-### 👋 Welcome in my code lair. My name is Michał.
+### 👋 Welcome to my code lair. I'm Michał.
 
-Passionate Junior Front-End Developer with the artistic background 🚀 I strive to turn my crazy ideas into engaging and aesthetically-pleasing user experiences. 
-I love crafting beautiful and functional websites that leave a lasting impression.
+Passionate Junior Front-End Developer with an artistic background 🚀. I strive to turn my creative ideas into engaging and aesthetically-pleasing user experiences. Crafting beautiful and functional websites is my forte.
 
 ### 🛠️ Tech Stack:
 - HTML, CSS, JavaScript
@@ -14,17 +13,16 @@ I love crafting beautiful and functional websites that leave a lasting impressio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewdev&layout=compact)
 
-### 🌱 Currently Learning:
-Exploring the fascinating world of front-end development through small projects as well as learning from Scrimba platform 🚀. Eager to absorb knowledge and always up for a challenge.
+### 🌱 Continuous Learning:
+Exploring the fascinating world of front-end development through small projects and learning from the Scrimba platform 🚀. Eager to absorb knowledge and always up for a challenge.
 
-### 🚀 What I Want to Bring to the Table:
+### 🚀 What I Bring to the Table:
 - Clean, semantic, scalable modular code
 - Problem-solving mindset
-- Emphasis on UX as well as solid design
+- Emphasis on UX and solid design
 - Strong attention to detail
 - Collaborative spirit
 - Enthusiasm for learning and growth
 
 ### 🤝 Open to Opportunities:
 I'm on the lookout for new opportunities to contribute and grow as a developer. If you're looking for a dedicated and motivated team player, let's chat!
-
