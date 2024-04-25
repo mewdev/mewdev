@@ -9,7 +9,6 @@ Passionate Junior Front-End Developer with an artistic background 🚀. I strive
 - Git & GitHub
 - Wordpress
 - Figma, Webflow
-- RESTful APIs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewdev&layout=compact)
 
@@ -17,12 +16,12 @@ Passionate Junior Front-End Developer with an artistic background 🚀. I strive
 Exploring the fascinating world of front-end development through small projects and learning from the Scrimba platform 🚀. Eager to absorb knowledge and always up for a challenge.
 
 ### 🚀 What I Bring to the Table:
-- Clean, semantic, scalable modular code
-- Problem-solving mindset
-- Emphasis on UX and solid design
+- Clean, semantic, scalable modular code utilizing current modern technologies 
+- Emphasis on solid UX and UI
 - Strong attention to detail
 - Collaborative spirit
 - Enthusiasm for learning and growth
+- Problem-solving mindset
 
 ### 🤝 Open to Opportunities:
 I'm on the lookout for new opportunities to contribute and grow as a developer. If you're looking for a dedicated and motivated team player, let's chat!
