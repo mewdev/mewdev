@@ -3,8 +3,10 @@
 I'm Michal, a passionate junior front-end developer with an artistic background. I enjoy turning creative ideas into functional and engaging applications using the latest best practices in modern frontend development. Here are some details about me and what I can bring to the table:
 
 ### 🛠️ Tech Stack:
-- HTML, CSS, JavaScript
+- HTML, CSS/SCSS, JavaScript
 - React.js
+- Astro
+- Tailwind
 - Responsive Web Design
 - Git & GitHub
 - Wordpress
