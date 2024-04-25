@@ -11,6 +11,7 @@ I'm Michal, a passionate junior front-end developer with an artistic background.
 - Git & GitHub
 - Wordpress
 - Figma, Webflow
+- Working experience in e-commerce field
 
 ### 👨‍💻 Take a peek at my most frequently used programming languages right here:
 
