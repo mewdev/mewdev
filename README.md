@@ -10,9 +10,9 @@ I'm Michal, a passionate junior front-end developer with an artistic background.
 - Responsive Web Design
 - Working experience in e-commerce field
 
-### 👨‍💻 Take a peek at my most frequently used programming languages right here:
+### 👨‍💻 Take a look at my stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mewdev&layout=compact)
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mewdev)
 
 ### 🌱 Continuous Learning:
 Since December 2023 I am exploring the exciting world of front-end development by working on personal projects and learning from resources like Scrimba. I have a strong passion for learning and thrive on challenges that help me expand my skill set.
