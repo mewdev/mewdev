@@ -12,7 +12,8 @@ I'm Michal, a passionate junior front-end developer with an artistic background.
 
 ### 👨‍💻 Take a look at my stats:
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mewdev)
+![mewdev github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mewdev)
+![mewdev github-trophies](https://stats.dooboo.io/api/github-trophies?login=mewdev)
 
 ### 🌱 Continuous Learning:
 Since December 2023 I am exploring the exciting world of front-end development by working on personal projects and learning from resources like Scrimba. I have a strong passion for learning and thrive on challenges that help me expand my skill set.
