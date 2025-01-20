@@ -3,9 +3,8 @@
 I'm Michal, a passionate junior front-end developer with an artistic background. I enjoy turning creative ideas into functional and engaging applications using the latest best practices in modern frontend development. Here are some details about me and what I can bring to the table:
 
 ### 🛠️ Tech Stack:
-- HTML, CSS/SCSS, JavaScript
-- React.js
-- Next.js, Astro
+- HTML, CSS/SCSS, JavaScript, TypeScript
+- Next.js, Astro, React
 - Tailwind CSS
 - Storybook
 
