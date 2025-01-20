@@ -8,8 +8,6 @@ I'm Michal, a passionate junior front-end developer with an artistic background.
 - Next.js, Astro
 - Tailwind CSS
 - Storybook
-- Responsive Web Design
-- Working experience in e-commerce field
 
 ### 👨‍💻 Take a look at my stats:
 
