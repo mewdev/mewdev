@@ -5,8 +5,9 @@ I'm Michal, a passionate junior front-end developer with an artistic background.
 ### 🛠️ Tech Stack:
 - HTML, CSS/SCSS, JavaScript
 - React.js
-- Astro
-- Tailwind
+- Next.js, Astro
+- Tailwind CSS
+- Storybook
 - Responsive Web Design
 - Working experience in e-commerce field
 
