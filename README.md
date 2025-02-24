@@ -6,7 +6,8 @@ I'm Michal, a passionate junior front-end developer with an artistic background.
 - HTML, CSS/SCSS, JavaScript, TypeScript
 - Next.js, Astro, React
 - Tailwind CSS
-- Storybook
+- Prisma, Storybook
+- Vitest
 
 ### 👨‍💻 Take a look at my stats:
 
