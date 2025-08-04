@@ -1,6 +1,6 @@
 ### 👋 Hello there, welcome to my code lair!
 
-I'm Michal, a passionate front-end developer with an artistic background. I enjoy turning creative ideas into functional and engaging applications using the latest best practices in modern frontend development. Here are some details about me and what I can bring to the table:
+I am fascinated by turning ideas into functional applications. I specialize in the modern stack (Next.js, TypeScript, Tailwind), but my path to it has led through a variety of roles. I don't know everything, but I'm a quick learner and problem solver - whether it's code or finding the right tool for the job. If you're looking for a developer for your team with a broad outlook and an appetite for problem solving, don't hesitate to reach out to me.
 
 ### 🛠️ Tech Stack:
 - HTML, CSS/SCSS, JavaScript, TypeScript
