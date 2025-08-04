@@ -1,6 +1,6 @@
 ### 👋 Hello there, welcome to my code lair!
 
-I'm Michal, a passionate junior front-end developer with an artistic background. I enjoy turning creative ideas into functional and engaging applications using the latest best practices in modern frontend development. Here are some details about me and what I can bring to the table:
+I'm Michal, a passionate front-end developer with an artistic background. I enjoy turning creative ideas into functional and engaging applications using the latest best practices in modern frontend development. Here are some details about me and what I can bring to the table:
 
 ### 🛠️ Tech Stack:
 - HTML, CSS/SCSS, JavaScript, TypeScript
