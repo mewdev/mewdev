@@ -1,15 +1,6 @@
-### 👋 Hello there, welcome to my code lair!
+A software developer with primary experience in building end-to-end web applications.
 
-I am fascinated by turning ideas into functional applications. I specialize in the modern stack (Next.js, TypeScript, Tailwind), but my path to it has led through a variety of roles. I don't know everything, but I'm a quick learner and problem solver - whether it's code or finding the right tool for the job. If you're looking for a developer for your team with a broad outlook and an appetite for problem solving, don't hesitate to reach out to me.
+Check out my recent work, or reach out — I'm open to making new (non)coding friends.
 
-### 🛠️ Tech Stack:
-- HTML, CSS/SCSS, JavaScript, TypeScript
-- Next.js, Astro, React
-- Tailwind CSS
-- Prisma, Storybook
-- Vitest
-
-### 👨‍💻 Take a look at my stats:
-
-![mewdev github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mewdev)
-![mewdev github-trophies](https://stats.dooboo.io/api/github-trophies?login=mewdev)
+Technology I've worked with:
+FastAPI · Firebase Suite · Git · GitHub · GitLab · ML/AI · Music Information Retrieval · NestJS · Next.js · Prisma · Python · React · React Router · SQLite · Slack WebHooks · Storybook · System Design · Tailwind CSS · Tanstack Query · Tanstack Router · Turborepo · TypeORM · TypeScript · Vite
